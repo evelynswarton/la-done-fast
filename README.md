@@ -1,4 +1,4 @@
-# Linear Algebra Library
+# Linear Algebra Done Fast
 
 ## Overview
 A simple C++ linear algebra library for basic matrix and vector operations, designed for research purposes.
@@ -17,16 +17,14 @@ A simple C++ linear algebra library for basic matrix and vector operations, desi
 
 ### Using Git
 ```bash
-git clone https://github.com/evelynswarton/eve_linalg
-cd eve_linalg
+git clone https://github.com/evelynswarton/la-done-fast
+cd la-done-fast
 make
 ```
 
 ### Without Git
 Download the source code and build manually:
 ```bash
-mkdir build && cd build
-cmake .. -DCMAKE_BUILD_TYPE=Release
 make
 ```
 
@@ -34,8 +32,8 @@ make
 
 ### Including the Library
 ```cpp
-#include "eve_linalg/matrix.hpp"
-#include "eve_linalg/vector.hpp"
+#include "la-done-fast/matrix.hpp"
+#include "la-done-fast/vector.hpp"
 ```
 
 ### Basic Operations
