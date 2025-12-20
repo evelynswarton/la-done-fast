@@ -1,7 +1,7 @@
-# Linear Algebra Done Fast
+# SFLA - Simple Fast Linear Algebra
 
 ## Overview
-A simple C++ linear algebra library for basic matrix and vector operations, designed for research purposes.
+A simple fast C++ linear algebra library for basic matrix and vector operations, designed for research purposes.
 
 ## Features
 - Matrix and vector classes with basic arithmetic operations
